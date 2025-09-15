@@ -1,10 +1,4 @@
-# Python bytecode and cache
-__pycache__/
-*.py[cod]
-*$py.class
 
-# Compiled extensions
-*.so
 
 # Virtual environments and local env files
 .venv/
@@ -20,10 +14,7 @@ env/
 # Test, coverage and static analysis
 
 
-# IDE/editor
-.vscode/
-.idea/
-
+# IDE/edito
 # Logs
 
 # Optional: ignore large local datasets (uncomment if you keep data locally)
